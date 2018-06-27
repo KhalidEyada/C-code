@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471689951 source:e:\amit\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1471855164 source:e:\amit\progs\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+

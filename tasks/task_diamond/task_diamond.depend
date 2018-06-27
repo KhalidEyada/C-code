@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471821872 source:e:\amit\task_diamond\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472998393 source:e:\amit\progs\tasks\task_diamond\main.c
+	<stdio.h>
+	<stdlib.h>
+

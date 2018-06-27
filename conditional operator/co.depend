@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471629812 source:e:\amit\co\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472215293 source:e:\amit\progs\conditional operator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473015335 source:e:\amit\progs\sc\main.c
+	<stdio.h>
+	<stdlib.h>
+

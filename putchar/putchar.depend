@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471618912 source:e:\amit\putchar\main.c
+	<stdio.h>
+	<stdlib.h>
+

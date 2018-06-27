@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471703910 source:e:\amit\continue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1471854334 source:e:\amit\progs\continue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472214408 source:e:\amit\progs\tasks\continue\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472223392 source:e:\amit\progs\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1472223706 source:e:\amit\progs\fabonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
